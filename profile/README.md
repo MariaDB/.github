@@ -34,7 +34,7 @@
 
 ## Projects
 - [`MariaDB Server`](https://github.com/MariaDB/server) - One of the world’s most popular open source relational databases
-- [`The feedback plugin`](https://github.com/MariaDB/feedback-plugin-backend) - This is an important tool as it gives more transparency towards the current use-cases and user configurations. It helps with usage statistics and functionality prioritisation. It is disabled by default and it does not collect and personal data. [`Enable it`](https://mariadb.com/kb/en/feedback-plugin/#enabling-the-plugin) to help shape MariaDB's future. You can [`check it out here`](https://mariadb.org/feedback-plugin/)
+- [`The feedback plugin`](https://github.com/MariaDB/feedback-plugin-backend) - This is an important tool as it gives more transparency towards the current use-cases and user configurations. It helps with usage statistics and functionality prioritisation. It is disabled by default and it does not collect any personal data. [`Enable it`](https://mariadb.com/kb/en/feedback-plugin/#enabling-the-plugin) to help shape MariaDB's future. You can [`check it out here`](https://mariadb.org/feedback-plugin/)
 - [`Buildbot`](https://github.com/MariaDB/buildbot) - MariaDB's continuous integration testing platform, based on the Buildbot.net open-source testing framework. Check it out [`here`](https://buildbot.mariadb.org/#/)
 - [`Jupyter Kernel`](https://github.com/MariaDB/mariadb_kernel) - An Open Source kernel for Jupyter which enables users to run MariaDB in a Jupyter notebook
 
