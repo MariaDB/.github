@@ -45,10 +45,12 @@
 
 ### MariaDB Connectors Repos
 - [`MariaDB Connector/C`](https://github.com/mariadb-corporation/mariadb-connector-c)
+- [`MariaDB Connector/C++`](https://github.com/mariadb-corporation/mariadb-connector-cpp)
 - [`MariaDB Connector/J`](https://github.com/mariadb-corporation/mariadb-connector-j)
 - [`MariaDB Connector/Node.js`](https://github.com/mariadb-corporation/mariadb-connector-nodejs)
 - [`MariaDB Connector/ODBC`](https://github.com/mariadb-corporation/mariadb-connector-odbc)
 - [`MariaDB Connector/Python`](https://github.com/mariadb-corporation/mariadb-connector-python)
+- [`MariaDB Connector/R2dbc`](https://github.com/mariadb-corporation/mariadb-connector-r2dbc)
 
 ## How to contribute
 - [`Contributing to the MariaDB Project`](https://mariadb.com/kb/en/contributing-to-the-mariadb-project/)
