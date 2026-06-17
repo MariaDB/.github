@@ -70,3 +70,6 @@
 - [`MariaDB Foundation`](https://mariadb.org/about/#about-mariadb-foundation) - The global contact point for collaboration on MariaDB Server
 - [`MariaDB Corporation`](https://mariadb.com/about-us/) - The company contributing the most code to MariaDB Server and offering the commercial solution MariaDB Enterprise 
   - [`MariaDB Corporation GitHub`](https://github.com/mariadb-corporation)
+
+### Branding and Logos
+- [`Logo & Branding Guidelines`](../README.md#logo--branding)
