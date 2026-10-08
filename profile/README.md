@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://mariadb.org/download/"><img src="https://img.shields.io/badge/-Download-orange?style=for-the-badge&logoColor=lightblue"/></a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://mariadb.com/kb/en/"><img src="https://img.shields.io/badge/-Knowledge%20Base-lightblue?style=for-the-badge&logoColor=lightblue"></a>
+    <a href="https://mariadb.org/documentation/"><img src="https://img.shields.io/badge/-Documentation-lightblue?style=for-the-badge&logoColor=lightblue"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://mariadb.org/blog/"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge"></a>
     &nbsp;&nbsp;&nbsp;
