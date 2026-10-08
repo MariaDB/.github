@@ -68,6 +68,7 @@
 
 ### Main Contributors
 - [`MariaDB Foundation`](https://mariadb.org/about/#about-mariadb-foundation) - The global contact point for collaboration on MariaDB Server
+- [`MariaDB Foundation Sponsors`](https://mariadb.org/about/#sponsors) - The MariaDB Foundation is grateful to these organizations for their substantial support
 - [`MariaDB Corporation`](https://mariadb.com/about-us/) - The company contributing the most code to MariaDB Server and offering the commercial solution MariaDB Enterprise 
   - [`MariaDB Corporation GitHub`](https://github.com/mariadb-corporation)
 
