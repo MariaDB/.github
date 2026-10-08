@@ -13,6 +13,10 @@
     <a href="https://mariadb.com/kb/en/"><img src="https://img.shields.io/badge/-Knowledge%20Base-lightblue?style=for-the-badge&logoColor=lightblue"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://mariadb.org/blog/"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge"></a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://mariadb.typeform.com/to/tS69UzVo?utm_source=shield"><img alt="Take the MariaDB Survey 2026"
+       src="https://img.shields.io/badge/Take_the_MariaDB_Survey_2026-003545?style=for-the-badge">
+    </a>
   </p>
 </div>
 
@@ -24,8 +28,6 @@
 
 <div>
   <p align="center">
-    <a href="https://www.youtube.com/@MariaDBFoundation/"><img src="https://img.shields.io/youtube/channel/subscribers/UCT2rydFTpxunueD-CtIQoWA?style=for-the-badge&logo=YouTube&label=MariaDB%20Foundation&labelColor=%23FF0000&color=grey"></a>
-    &nbsp; &nbsp;
     <a href="https://www.reddit.com/r/mariadb/"><img src="https://img.shields.io/reddit/subreddit-subscribers/mariadb?style=for-the-badge&logo=reddit&logoColor=white&logoSize=auto&label=R%2FMARIADB&labelColor=%20%23FF5700%20&color=grey"></a>
     &nbsp; &nbsp;
     <a href="https://www.linkedin.com/company/mariadb-foundation"><img src="https://img.shields.io/badge/-LinkedIn-%230e76a8?style=for-the-badge"></a>
