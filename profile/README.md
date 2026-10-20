@@ -13,10 +13,6 @@
     <a href="https://mariadb.org/documentation/"><img src="https://img.shields.io/badge/-Documentation-lightblue?style=for-the-badge&logoColor=lightblue"></a>
     &nbsp;&nbsp;&nbsp;
     <a href="https://mariadb.org/blog/"><img src="https://img.shields.io/badge/Blog-blue?style=for-the-badge"></a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://mariadb.typeform.com/to/tS69UzVo?utm_source=shield"><img alt="Take the MariaDB Survey 2026"
-       src="https://img.shields.io/badge/Take_the_MariaDB_Survey_2026-003545?style=for-the-badge">
-    </a>
   </p>
 </div>
 
