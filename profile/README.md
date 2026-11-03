@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://mariadb.org/wp-content/uploads/2025/01/mariadb_org_inv_rgb_h.png" height="200">
-    <source media="(prefers-color-scheme: light)" srcset="https://mariadb.org/wp-content/uploads/2025/01/mariadb_org_rgb_h.png" height="200">
-    <img alt="Switches the logo depending on light or dark mode usage.">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MariaDB/.github/main/assets/logos/png/mariaDBFoundationLogotype_light_transparent.png" height="200">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MariaDB/.github/main/assets/logos/png/mariaDBFoundationLogotype_dark_transparent.png" height="200">
+    <img alt="MariaDB Foundation logo" src="https://raw.githubusercontent.com/MariaDB/.github/main/assets/logos/png/mariaDBFoundationLogotype_dark_transparent.png" height="200">
   </picture>
 </p>
 
